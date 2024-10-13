@@ -9,12 +9,15 @@ select*from game;
 ![screenshot](Screenshot1.png)
 
 ### Question 2
+
 ![screenshot](Screenshot-Q-2.png)
 
 ### Question 3
 delete from goal_reached;
+
 ![screenshot](Screenshot-Q-3.png)
 
 ### Question 4
  delete from game;
+
  ![screenshot](Screenshot-Q-4.png)
